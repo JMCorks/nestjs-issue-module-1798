@@ -17,11 +17,7 @@
     "express": "^4.16.4",
     "rxjs": "^6.4.0",
     "ts-descriptor": "^1.0.4",
-    "typeorm": "^0.2.15",
-    "@nestjs/common": "^6.0.2",
-    "@nestjs/core": "^6.0.2",
-    "@nestjs/swagger": "^3.0.1",
-    "@nestjs/typeorm": "^6.0.0"
+    "typeorm": "^0.2.15"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.0.2",
